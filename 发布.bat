@@ -3,8 +3,6 @@
 @echo off
 echo hello! baidu!
 
-cmd /c hexo generate
+cmd hexo generate
 
 cmd /k hexo deploy
-
-pause
