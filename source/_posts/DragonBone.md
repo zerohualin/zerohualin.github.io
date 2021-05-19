@@ -72,7 +72,7 @@ Slot.ts
 slot.replaceDisplayData(displayData);
 ```
 
-```
+```typescript
 dragonBones.ArmatureDisplay.ts
 armatureDisplay.armature();
 ```
